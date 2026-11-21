@@ -1,8 +1,6 @@
 <img src="banner.jpg" alt="Shadow Studio" width="100%">
 
-# Shadow Studio
-
-An independent studio making free, practical apps - built to be simple, fast and useful.
+<p align="center"><b>An independent studio making free, practical apps - built to be simple, fast and useful.</b></p>
 
 ## Apps
 

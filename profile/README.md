@@ -1,3 +1,5 @@
+<img src="banner.jpg" alt="Shadow Studio" width="100%">
+
 ## Shadow Studio
 
 Free Windows tools that turn code into finished videos - made by a creator, for creators.

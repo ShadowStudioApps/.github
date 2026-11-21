@@ -1,8 +1,10 @@
 <img src="banner.jpg" alt="Shadow Studio" width="100%">
 
-## Shadow Studio
+# Shadow Studio
 
-Free Windows tools that turn code into finished videos - made by a creator, for creators.
+An independent studio making free, practical apps - built to be simple, fast and useful.
+
+## Apps
 
 ### <img src="https://raw.githubusercontent.com/ShadowStudioApps/seekframe/main/assets/shadow_1024.png" alt="" width="26" height="26" align="top"> Seekframe
 
@@ -19,4 +21,4 @@ app speaks 11 languages. *(Formerly called Shadow.)*
 
 ### More to come
 
-New tools for video creators will appear here. Ideas or bugs? [Open an issue on Seekframe](https://github.com/ShadowStudioApps/seekframe/issues/new/choose).
+More apps of different kinds are on the way and will be listed here. Ideas or bugs? Open an issue on the app's page.

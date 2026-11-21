@@ -1,4 +1,4 @@
-<img src="banner.jpg" alt="Shadow Studio" width="100%">
+<img src="cover.jpg" alt="Shadow Studio" width="100%">
 
 <p align="center"><b>An independent studio making free, practical apps - built to be simple, fast and useful.</b></p>
 
